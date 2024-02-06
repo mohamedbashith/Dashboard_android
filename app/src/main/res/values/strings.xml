@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">android-dashboard-problem</string>
+    <string name="total_jobs">%d Jobs</string>
+    <string name="completed_jobs">%1$d of %2$d Completed</string>
+    <string name="total_value">Total Value ($%s)</string>
+    <string name="collected">$%s Collected</string>
+    <string name="title_invoice">Invoice Stats</string>
+    <string name="title_job">Job Stats</string>
+    <string name="sample_name">Hello Jason! ✋🏼</string>
+    <string name="tab_yet_to_start">Yet to Start (%d)</string>
+    <string name="tab_in_progress">Yet to Start (%d)</string>
+    <string name="tab_cancelled">Yet to Start (%d)</string>
+    <string name="tab_completed">Yet to Start (%d)</string>
+    <string name="tab_in_complete">Yet to Start (%d)</string>
+    <string name="total_items">Total Items</string>
+    <string name="completed">Completed</string>
+    <string name="stack_color">Stack color</string>
+</resources>
